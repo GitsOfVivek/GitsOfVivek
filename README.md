@@ -1,4 +1,15 @@
-# Hi 👋 ViveK here😊,
+> Code in Java :
+```java
+public class Main {
+    public static void main (String [] args) {
+        System.out.println("Hi, ViveK here!");
+    }
+}
+```
+> Output :
+```
+Hi, ViveK here!
+```
 
 I'm a student who did *Bachelor of Arts(BA) in History*. I was new in Coding so I join **Newton School**. Here I will track my career and update that what I did previously and what I'm currently doing.
 I'll explain here from scratch...
