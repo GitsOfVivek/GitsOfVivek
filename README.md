@@ -5,6 +5,6 @@ I'll explain here from scratch...
   - I joined Newton School for *Full Stack Web Development (August Batch 2022)*.
   - here in NS I'm learning Data Structure and Algorithm (DSA) with Java language.
 
-> I'm making my [DSA Notes](https://github.com/GitsOfVivek/DSA-with-Java-Notes) which is you can refer if you want.✌️
+> I'm making my <a href="https://github.com/GitsOfVivek/DSA-with-Java-Notes" target="_blank">DSA Notes</a> in Java, which is you can refer if you want.✌️
 
 You can see my Portfolio here (I know this is empty but very soon it will update) [Portfolio](https://www.github.com/GitsOfVivek/MyPortfolio)
