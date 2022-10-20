@@ -1,5 +1,7 @@
 # Hi 👋 ViveK here ☺ 
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 I'm a student who did *Bachelor of Arts(BA) in History*. I was new in Coding so I join **Newton School**. Here I will track my career and update that what I did previously and what I'm currently doing.
 I'll explain here from scratch...
   - I joined Newton School for *Full Stack Web Development (August Batch 2022)*.
