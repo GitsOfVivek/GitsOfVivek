@@ -9,7 +9,7 @@ I'll explain here from scratch...
 
 > I'm making my <a href="https://github.com/GitsOfVivek/DSA-with-Java-Notes" target="_blank">DSA Notes</a> in Java, which is you can refer if you want.✌️
 
-You can see my Portfolio here (I know this is empty but very soon it will update) [Portfolio](https://www.github.com/GitsOfVivek/MyPortfolio)
+You can see my [Portfolio](https://gitsofvivek.github.io/MyPortfolio/) here (I know this is empty but very soon it will update)
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GitsofVivek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Profile Status">
