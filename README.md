@@ -19,10 +19,6 @@
 </p>
 
 
-
-![Snake animation](https://github.com/GitsOfVivek/GitsOfVivek/blob/output/github-contribution-grid-snake.svg)
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
